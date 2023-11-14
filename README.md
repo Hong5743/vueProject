@@ -58,3 +58,5 @@ npm install --save axios
 
 /* 사용 위치의 <script> 아래에 import axios from “axios”; 를 코딩한다 */
 
+This is a first Vue.js project
+
